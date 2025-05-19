@@ -278,6 +278,19 @@ main {
     opacity: 1;
 }
 
+/*Music section css*/
+.music-section {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+.music-link {
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 9px;
+}
+
+
 /* Responsive design */
 @media screen and (max-width: 768px) {
     .nav-links {
