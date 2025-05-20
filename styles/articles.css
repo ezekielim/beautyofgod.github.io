@@ -302,6 +302,7 @@ main {
 .in-img {
     width: 50rem;
 }
+/*extra comment*/
 
 /* Responsive design */
 @media screen and (max-width: 768px) {
