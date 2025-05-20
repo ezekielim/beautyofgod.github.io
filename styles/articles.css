@@ -289,6 +289,19 @@ main {
     border-radius: 9px;
 }
 
+.music-section-1{
+    padding: 10px;
+    text-align: center;
+    
+}
+.music-link-1 {
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 9px;
+}
+.in-img {
+    width: 50rem;
+}
 
 /* Responsive design */
 @media screen and (max-width: 768px) {
