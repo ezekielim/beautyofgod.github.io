@@ -7,7 +7,13 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://ezekielim.github.io/beautyofgod.github.io/articles.html</loc>
+      <loc>https://ezekielim.github.io/beautyofgod.github.io/writings.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://ezekielim.github.io/beautyofgod.github.io/music.html</loc>
       <lastmod>2024-03-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
