@@ -1,4 +1,7 @@
 User-agent: *
 Allow: https://ezekielim.github.io/beautyofgod.github.io/
+Allow: https://ezekielim.github.io/beautyofgod.github.io/writings.html
+Allow: https://ezekielim.github.io/beautyofgod.github.io/music.html
+
 
 Sitemap: https://ezekielim.github.io/beautyofgod.github.io/sitemap.xml 
